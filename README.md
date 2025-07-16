@@ -20,6 +20,10 @@ O objetivo desse design é chamar a atenção do usuário sem que ele se incomod
 <img width="1366" height="768" alt="Pop-up" src="https://github.com/user-attachments/assets/31e765da-dd2d-4443-abe5-740d9e66fff5" />
 
 ---
+## 🖼 Prévia da Landing Page
+
+<img width="1366" height="3840" alt="LandingPage" src="https://github.com/user-attachments/assets/1af90df8-3d17-45b5-8bf1-2a8599082c1c" />
+
 
 ## ⚙️ Tecnologias e Ferramentas
 - **Ferramentas utilizadas:** Canva / Editor gráfico
